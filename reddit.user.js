@@ -160,5 +160,5 @@ function reddit($) {
     });
   };
 
-  if ($("h1:contains(comments)").length) on_comments();
+  if ($(".commentarea").length) on_comments();
 }
