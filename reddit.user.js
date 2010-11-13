@@ -22,7 +22,7 @@ function reddit($) {
   }
 
   // Time in milliseconds after tooltip should appear after hovering 'parent'
-  tooltipDelay = 300;
+  tooltipDelay = 400;
   tooltipCss = {
     backgroundColor: '#eee',
     padding: '3px',
